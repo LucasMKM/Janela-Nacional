@@ -49,6 +49,13 @@ npm run test:e2e                 # 12 cenários no navegador + capturas em docs/
 
 Toda resposta informa `fonte` e `atualizadoEm`.
 
+## Documentação
+
+- [Entrega 2 + 3 — especificação, protótipo, UML e planejamento](docs/entregas/Janela_Nacional_Entrega_2_3.pdf)
+- [Entrega 4 + 5 — implementação, arquitetura e testes](docs/entregas/Janela_Nacional_Entrega_4_5.pdf)
+- [Documentação final](docs/entregas/Janela_Nacional_Documentacao_Final.pdf)
+- [Diagrama de componentes UML](docs/arquitetura/diagrama-componentes.svg)
+
 ## Integrantes
 
 Andrew · William Motta · Lucas Madono · Paulo César
