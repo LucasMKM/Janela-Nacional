@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 745" width="1120" height="745" font-family="Inter, Arial, sans-serif">
+<defs><marker id="seta" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="11" markerHeight="11" orient="auto-start-reverse">
+<path d="M1,1 L11,6 L1,11" fill="none" stroke="#3b4757" stroke-width="1.6"/></marker></defs>
+<rect width="1120" height="745" fill="#ffffff"/>
+<path d="M20,28 L30,18 L350,18 L350,490 L340,500 " fill="#eef1f5" stroke="#3b4757" stroke-width="1.2"/>
+<line x1="340" y1="28" x2="350" y2="18" stroke="#3b4757" stroke-width="1.2"/>
+<rect x="20" y="28" width="320" height="472" fill="#f7f8fa" stroke="#3b4757" stroke-width="1.2"/>
+<text x="30" y="43" font-size="10.5" font-weight="400" text-anchor="start" fill="#4a5565">«device»</text>
+<text x="30" y="58" font-size="12.5" font-weight="700" text-anchor="start" fill="#1c2430">Navegador do usuário</text>
+<rect x="35" y="72" width="295" height="414" rx="2" fill="#fbfcfd" stroke="#3b4757" stroke-width="1.6"/>
+<rect x="308" y="79" width="14" height="17" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="304" y="82" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="304" y="89" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="175.5" y="91" font-size="10" font-weight="400" text-anchor="middle" fill="#4a5565">«component»</text>
+<text x="175.5" y="107" font-size="12.5" font-weight="700" text-anchor="middle" fill="#1c2430">Interface Web (SPA)</text>
+<text x="182" y="122" font-size="10" font-weight="400" text-anchor="middle" fill="#4a5565">public/ — HTML, CSS e JavaScript (ES modules)</text>
+<rect x="62" y="135" width="240" height="58" rx="2" fill="#ffffff" stroke="#3b4757" stroke-width="1.2"/>
+<rect x="280" y="142" width="14" height="17" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="276" y="145" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="276" y="152" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="175.0" y="154" font-size="10" font-weight="400" text-anchor="middle" fill="#4a5565">«component»</text>
+<text x="175.0" y="170" font-size="12.5" font-weight="700" text-anchor="middle" fill="#1c2430">Roteador</text>
+<text x="175.0" y="185.0" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">js/main.js — rotas por #hash</text>
+<rect x="62" y="222" width="240" height="72" rx="2" fill="#ffffff" stroke="#3b4757" stroke-width="1.2"/>
+<rect x="280" y="229" width="14" height="17" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="276" y="232" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="276" y="239" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="175.0" y="241" font-size="10" font-weight="400" text-anchor="middle" fill="#4a5565">«component»</text>
+<text x="175.0" y="257" font-size="12.5" font-weight="700" text-anchor="middle" fill="#1c2430">Telas</text>
+<text x="175.0" y="272.0" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">js/views/ — Início · Lista/Busca</text>
+<text x="175.0" y="285.5" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">Perfil (abas) · Partido</text>
+<rect x="46" y="330" width="128" height="74" rx="2" fill="#ffffff" stroke="#3b4757" stroke-width="1.2"/>
+<rect x="152" y="337" width="14" height="17" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="148" y="340" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="148" y="347" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="103.0" y="349" font-size="10" font-weight="400" text-anchor="middle" fill="#4a5565">«component»</text>
+<text x="103.0" y="365" font-size="12.5" font-weight="700" text-anchor="middle" fill="#1c2430">Componentes UI</text>
+<text x="103.0" y="380.0" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">cartão, avatar,</text>
+<text x="103.0" y="393.5" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">fonte, msg. vazia</text>
+<rect x="196" y="330" width="126" height="74" rx="2" fill="#ffffff" stroke="#3b4757" stroke-width="1.2"/>
+<rect x="300" y="337" width="14" height="17" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="296" y="340" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="296" y="347" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="252.0" y="349" font-size="10" font-weight="400" text-anchor="middle" fill="#4a5565">«component»</text>
+<text x="252.0" y="365" font-size="12.5" font-weight="700" text-anchor="middle" fill="#1c2430">Estado local</text>
+<text x="252.0" y="380.0" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">js/estado.js</text>
+<text x="252.0" y="393.5" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">UF no localStorage</text>
+<rect x="62" y="418" width="240" height="60" rx="2" fill="#ffffff" stroke="#3b4757" stroke-width="1.2"/>
+<rect x="280" y="425" width="14" height="17" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="276" y="428" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="276" y="435" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="175.0" y="437" font-size="10" font-weight="400" text-anchor="middle" fill="#4a5565">«component»</text>
+<text x="175.0" y="453" font-size="12.5" font-weight="700" text-anchor="middle" fill="#1c2430">Cliente API</text>
+<text x="175.0" y="468.0" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">js/api.js — fetch /api</text>
+<path d="M182,193 L182,222" fill="none" stroke="#3b4757" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#seta)"/>
+<path d="M110,294 L110,330" fill="none" stroke="#3b4757" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#seta)"/>
+<path d="M258,294 L258,330" fill="none" stroke="#3b4757" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#seta)"/>
+<path d="M185,294 L185,418" fill="none" stroke="#3b4757" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#seta)"/>
+<path d="M440,28 L450,18 L810,18 L810,490 L800,500 " fill="#eef1f5" stroke="#3b4757" stroke-width="1.2"/>
+<line x1="800" y1="28" x2="810" y2="18" stroke="#3b4757" stroke-width="1.2"/>
+<rect x="440" y="28" width="360" height="472" fill="#f7f8fa" stroke="#3b4757" stroke-width="1.2"/>
+<text x="450" y="43" font-size="10.5" font-weight="400" text-anchor="start" fill="#4a5565">«execution environment»</text>
+<text x="450" y="58" font-size="12.5" font-weight="700" text-anchor="start" fill="#1c2430">Servidor Node.js + Express</text>
+<rect x="470" y="66" width="315" height="60" rx="2" fill="#ffffff" stroke="#3b4757" stroke-width="1.2"/>
+<rect x="763" y="73" width="14" height="17" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="759" y="76" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="759" y="83" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="620.5" y="85" font-size="10" font-weight="400" text-anchor="middle" fill="#4a5565">«component»</text>
+<text x="620.5" y="101" font-size="12.5" font-weight="700" text-anchor="middle" fill="#1c2430">Arquivos estáticos</text>
+<text x="620.5" y="116.0" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">express.static(public/)</text>
+<rect x="510" y="140" width="275" height="56" rx="2" fill="#ffffff" stroke="#3b4757" stroke-width="1.2"/>
+<rect x="763" y="147" width="14" height="17" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="759" y="150" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="759" y="157" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="640.5" y="159" font-size="10" font-weight="400" text-anchor="middle" fill="#4a5565">«component»</text>
+<text x="640.5" y="175" font-size="12.5" font-weight="700" text-anchor="middle" fill="#1c2430">Rotas da API</text>
+<text x="640.5" y="190.0" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">server/routes/api.js</text>
+<rect x="470" y="216" width="315" height="56" rx="2" fill="#ffffff" stroke="#3b4757" stroke-width="1.2"/>
+<rect x="763" y="223" width="14" height="17" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="759" y="226" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="759" y="233" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="620.5" y="235" font-size="10" font-weight="400" text-anchor="middle" fill="#4a5565">«component»</text>
+<text x="620.5" y="251" font-size="12.5" font-weight="700" text-anchor="middle" fill="#1c2430">Controladores</text>
+<text x="620.5" y="266.0" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">server/controllers/ — candidato, partido, referência</text>
+<rect x="470" y="290" width="315" height="74" rx="2" fill="#ffffff" stroke="#3b4757" stroke-width="1.2"/>
+<rect x="763" y="297" width="14" height="17" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="759" y="300" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="759" y="307" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="620.5" y="309" font-size="10" font-weight="400" text-anchor="middle" fill="#4a5565">«component»</text>
+<text x="620.5" y="325" font-size="12.5" font-weight="700" text-anchor="middle" fill="#1c2430">Serviços</text>
+<text x="620.5" y="340.0" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">server/services/ — CandidatoService (lista, busca,</text>
+<text x="620.5" y="353.5" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">perfil, neutralidade) · PartidoService</text>
+<rect x="470" y="386" width="160" height="100" rx="2" fill="#ffffff" stroke="#3b4757" stroke-width="1.2"/>
+<rect x="608" y="393" width="14" height="17" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="604" y="396" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="604" y="403" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="543.0" y="405" font-size="10" font-weight="400" text-anchor="middle" fill="#4a5565">«component»</text>
+<text x="543.0" y="421" font-size="12.5" font-weight="700" text-anchor="middle" fill="#1c2430">Domínio + utils</text>
+<text x="543.0" y="436.0" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">domain/ — cargos, UFs,</text>
+<text x="543.0" y="449.5" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">erros · utils/texto.js</text>
+<text x="543.0" y="463.0" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">(acentos, ordem A–Z)</text>
+<text x="538" y="415" font-size="1" font-weight="400" text-anchor="start" fill="#1c2430"></text>
+<rect x="645" y="386" width="140" height="100" rx="2" fill="#ffffff" stroke="#3b4757" stroke-width="1.2"/>
+<rect x="763" y="393" width="14" height="17" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="759" y="396" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="759" y="403" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="708.0" y="405" font-size="10" font-weight="400" text-anchor="middle" fill="#4a5565">«component»</text>
+<text x="708.0" y="421" font-size="12.5" font-weight="700" text-anchor="middle" fill="#1c2430">Repositórios</text>
+<text x="708.0" y="436.0" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">repositories/ —</text>
+<text x="708.0" y="449.5" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">candidato, partido,</text>
+<text x="708.0" y="463.0" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">fonteDados (JSON)</text>
+<path d="M647,196 L647,216" fill="none" stroke="#3b4757" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#seta)"/>
+<path d="M627,272 L627,290" fill="none" stroke="#3b4757" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#seta)"/>
+<path d="M545,364 L545,386" fill="none" stroke="#3b4757" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#seta)"/>
+<path d="M715,364 L715,386" fill="none" stroke="#3b4757" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#seta)"/>
+<line x1="481" y1="168" x2="510" y2="168" stroke="#3b4757" stroke-width="1.3"/>
+<circle cx="472" cy="168" r="9" fill="#fff" stroke="#3b4757" stroke-width="1.4"/>
+<path d="M464,154 A15,15 0 0,0 464,182" fill="none" stroke="#3b4757" stroke-width="1.4"/>
+<polyline points="302,448 395,448 395,168 457,168" fill="none" stroke="#3b4757" stroke-width="1.3"/>
+<text x="432" y="142" font-size="10.5" font-weight="700" text-anchor="end" fill="#1c2430">API REST /api</text>
+<text x="432" y="155" font-size="10" font-weight="400" text-anchor="end" fill="#4a5565">HTTP + JSON</text>
+<path d="M470,96 L330,96" fill="none" stroke="#3b4757" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#seta)"/>
+<text x="398" y="90" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">«entrega»</text>
+<rect x="855" y="300" width="137" height="18" fill="#f7f8fa" stroke="#3b4757" stroke-width="1.2"/>
+<rect x="855" y="318" width="255" height="182" fill="#f7f8fa" stroke="#3b4757" stroke-width="1.2"/>
+<text x="863" y="313.5" font-size="11.5" font-weight="700" text-anchor="start" fill="#1c2430">Dados — data/</text>
+<rect x="866" y="328" width="234" height="38" fill="#fff" stroke="#3b4757" stroke-width="1.1"/>
+<path d="M1080,333 L1089,333 L1093,337 L1093,349 L1080,349 Z" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="874" y="343" font-size="10.5" font-weight="600" text-anchor="start" fill="#1c2430">«artifact» candidatos.json</text>
+<text x="876" y="357" font-size="10" font-weight="400" text-anchor="start" fill="#4a5565">gerado pelo importador</text>
+<rect x="866" y="372" width="234" height="26" fill="#fff" stroke="#3b4757" stroke-width="1.1"/>
+<path d="M1080,377 L1089,377 L1093,381 L1093,393 L1080,393 Z" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="874" y="389.0" font-size="10.5" font-weight="600" text-anchor="start" fill="#1c2430">«artifact» partidos.json</text>
+<rect x="866" y="404" width="234" height="38" fill="#fff" stroke="#3b4757" stroke-width="1.1"/>
+<path d="M1080,409 L1089,409 L1093,413 L1093,425 L1080,425 Z" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="874" y="419" font-size="10.5" font-weight="600" text-anchor="start" fill="#1c2430">«artifact» curadoria/propostas.json</text>
+<text x="876" y="433" font-size="10" font-weight="400" text-anchor="start" fill="#4a5565">resumos revisados pelo grupo</text>
+<rect x="866" y="448" width="234" height="38" fill="#fff" stroke="#3b4757" stroke-width="1.1"/>
+<path d="M1080,453 L1089,453 L1093,457 L1093,469 L1080,469 Z" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="874" y="463" font-size="10.5" font-weight="600" text-anchor="start" fill="#1c2430">«artifact» curadoria/historico.json</text>
+<text x="876" y="477" font-size="10" font-weight="400" text-anchor="start" fill="#4a5565">Câmara · Senado · TSE</text>
+<path d="M785,430 L855,430" fill="none" stroke="#3b4757" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#seta)"/>
+<text x="820" y="423" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">«lê»</text>
+<rect x="862" y="560" width="240" height="70" rx="2" fill="#ffffff" stroke="#3b4757" stroke-width="1.2"/>
+<rect x="1080" y="567" width="14" height="17" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="1076" y="570" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="1076" y="577" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="975.0" y="579" font-size="10" font-weight="400" text-anchor="middle" fill="#4a5565">«component»</text>
+<text x="975.0" y="595" font-size="12.5" font-weight="700" text-anchor="middle" fill="#1c2430">Importador TSE</text>
+<text x="975.0" y="610.0" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">importador/importadorTse.js</text>
+<text x="975.0" y="623.5" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">scripts/importar-tse.js (npm run importar)</text>
+<rect x="862" y="672" width="240" height="44" fill="#fff" stroke="#3b4757" stroke-width="1.1"/>
+<path d="M1082,677 L1091,677 L1095,681 L1095,693 L1082,693 Z" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="870" y="687" font-size="10.5" font-weight="600" text-anchor="start" fill="#1c2430">«artifact» consulta_cand_2026_UF.csv</text>
+<text x="872" y="701" font-size="10" font-weight="400" text-anchor="start" fill="#4a5565">dados abertos do TSE (latin-1, separador ;)</text>
+<path d="M982,630 L982,672" fill="none" stroke="#3b4757" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#seta)"/>
+<text x="990" y="655" font-size="10.5" font-weight="400" text-anchor="start" fill="#4a5565">«lê»</text>
+<path d="M925,560 L925,500" fill="none" stroke="#3b4757" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#seta)"/>
+<text x="933" y="535" font-size="10.5" font-weight="400" text-anchor="start" fill="#4a5565">«gera»</text>
+<path d="M862,600 L550,600 L550,486" fill="none" stroke="#3b4757" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#seta)"/>
+<text x="700" y="593" font-size="10.5" font-weight="400" text-anchor="middle" fill="#4a5565">«usa» (cargos, formatação de nomes)</text>
+<rect x="20" y="552" width="420" height="168" fill="#fff" stroke="#c9ced6" stroke-width="1"/>
+<text x="32" y="568" font-size="11.5" font-weight="700" text-anchor="start" fill="#1c2430">Legenda</text>
+<path d="M34,588 L84,588" stroke="#3b4757" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#seta)"/>
+<text x="96" y="592" font-size="10.5" font-weight="400" text-anchor="start" fill="#1c2430">dependência: a origem usa / depende do destino</text>
+<line x1="34" y1="614" x2="60" y2="614" stroke="#3b4757" stroke-width="1.3"/><circle cx="69" cy="614" r="8" fill="#fff" stroke="#3b4757" stroke-width="1.4"/>
+<path d="M78,601 A14,14 0 0,1 78,627" fill="none" stroke="#3b4757" stroke-width="1.4" transform="translate(-16,0)"/>
+<text x="96" y="618" font-size="10.5" font-weight="400" text-anchor="start" fill="#1c2430">interface fornecida (○) e requerida (◡): API REST</text>
+<rect x="42" y="632" width="14" height="17" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="38" y="635" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<rect x="38" y="642" width="8" height="4" fill="#fff" stroke="#3b4757" stroke-width="1"/>
+<text x="96" y="645" font-size="10.5" font-weight="400" text-anchor="start" fill="#1c2430">componente  ·  caixa 3D = nó de execução</text>
+<text x="32" y="672" font-size="10.5" font-weight="400" text-anchor="start" fill="#4a5565">Camadas do back-end: Rotas → Controladores → Serviços →</text>
+<text x="32" y="686" font-size="10.5" font-weight="400" text-anchor="start" fill="#4a5565">Repositórios. Regras de negócio só nos Serviços; acesso a</text>
+<text x="32" y="700" font-size="10.5" font-weight="400" text-anchor="start" fill="#4a5565">dados só nos Repositórios (trocar JSON por banco não afeta o resto).</text>
+</svg>

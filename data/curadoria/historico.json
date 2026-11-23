@@ -1,0 +1,152 @@
+{
+  "260000000012": {
+    "cargos": [
+      {
+        "descricao": "Deputado Federal (RS)",
+        "periodo": "2019–2027",
+        "fonte": {
+          "nome": "Câmara",
+          "url": "https://www.camara.leg.br/busca-portal/proposicoes/pesquisa-simplificada"
+        }
+      },
+      {
+        "descricao": "Vereador — Rio Grande",
+        "periodo": "2013–2018",
+        "fonte": {
+          "nome": "TSE",
+          "url": "https://divulgacandcontas.tse.jus.br/"
+        }
+      }
+    ],
+    "projetos": [
+      {
+        "identificacao": "PL 0000/2021",
+        "ementa": "Incentivo à pesca artesanal",
+        "fonte": {
+          "nome": "Câmara",
+          "url": "https://www.camara.leg.br/busca-portal/proposicoes/pesquisa-simplificada"
+        }
+      },
+      {
+        "identificacao": "PL 0000/2023",
+        "ementa": "Bolsa de iniciação científica",
+        "fonte": {
+          "nome": "Câmara",
+          "url": "https://www.camara.leg.br/busca-portal/proposicoes/pesquisa-simplificada"
+        }
+      }
+    ],
+    "atualizadoEm": "2026-11-10"
+  },
+  "260000000010": {
+    "cargos": [
+      {
+        "descricao": "Vereadora — Pelotas",
+        "periodo": "2017–2024",
+        "fonte": {
+          "nome": "TSE",
+          "url": "https://divulgacandcontas.tse.jus.br/"
+        }
+      }
+    ],
+    "projetos": [],
+    "atualizadoEm": "2026-11-10"
+  },
+  "260000000002": {
+    "cargos": [
+      {
+        "descricao": "Senadora (MG)",
+        "periodo": "2019–2027",
+        "fonte": {
+          "nome": "Senado",
+          "url": "https://www25.senado.leg.br/web/atividade/materias"
+        }
+      }
+    ],
+    "projetos": [
+      {
+        "identificacao": "PL 0000/2020",
+        "ementa": "Programa de alfabetização de adultos",
+        "fonte": {
+          "nome": "Senado",
+          "url": "https://www25.senado.leg.br/web/atividade/materias"
+        }
+      }
+    ],
+    "atualizadoEm": "2026-11-10"
+  },
+  "260000000004": {
+    "cargos": [
+      {
+        "descricao": "Deputado Federal (PE)",
+        "periodo": "2015–2023",
+        "fonte": {
+          "nome": "Câmara",
+          "url": "https://www.camara.leg.br/busca-portal/proposicoes/pesquisa-simplificada"
+        }
+      }
+    ],
+    "projetos": [
+      {
+        "identificacao": "PL 0000/2017",
+        "ementa": "Cadastro nacional de doadores de sangue",
+        "fonte": {
+          "nome": "Câmara",
+          "url": "https://www.camara.leg.br/busca-portal/proposicoes/pesquisa-simplificada"
+        }
+      }
+    ],
+    "atualizadoEm": "2026-11-10"
+  },
+  "260000000007": {
+    "cargos": [
+      {
+        "descricao": "Prefeito — Santa Maria",
+        "periodo": "2017–2024",
+        "fonte": {
+          "nome": "TSE",
+          "url": "https://divulgacandcontas.tse.jus.br/"
+        }
+      }
+    ],
+    "projetos": [],
+    "atualizadoEm": "2026-11-10"
+  },
+  "260000000016": {
+    "cargos": [
+      {
+        "descricao": "Deputada Federal (RS)",
+        "periodo": "2023–2027",
+        "fonte": {
+          "nome": "Câmara",
+          "url": "https://www.camara.leg.br/busca-portal/proposicoes/pesquisa-simplificada"
+        }
+      }
+    ],
+    "projetos": [
+      {
+        "identificacao": "PL 0000/2024",
+        "ementa": "Merenda escolar com produtos locais",
+        "fonte": {
+          "nome": "Câmara",
+          "url": "https://www.camara.leg.br/busca-portal/proposicoes/pesquisa-simplificada"
+        }
+      }
+    ],
+    "atualizadoEm": "2026-11-10"
+  },
+  "260000000027": {
+    "cargos": [
+      {
+        "descricao": "Deputado Federal (SP)",
+        "periodo": "2011–2019",
+        "fonte": {
+          "nome": "Câmara",
+          "url": "https://www.camara.leg.br/busca-portal/proposicoes/pesquisa-simplificada"
+        }
+      }
+    ],
+    "projetos": [],
+    "atualizadoEm": "2026-11-10"
+  }
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "E01",
+    "nome": "Validação da tela inicial sem cargo",
+    "esperado": "Mensagem \"Escolha um cargo.\" e permanece na Tela 1",
+    "obtido": "mensagem \"Escolha um cargo.\" exibida; URL continua #/",
+    "ok": true
+  },
+  {
+    "id": "E02",
+    "nome": "HU01 / CA01.1 — Selecionar RS + Senador",
+    "esperado": "Somente os 4 senadores do RS",
+    "obtido": "4 candidatos: Ana Beatriz Souza, Carlos Mendes, João Pedro Silva, Marina Costa",
+    "ok": true
+  },
+  {
+    "id": "E03",
+    "nome": "HU01 / CA01.2 — Ordem alfabética, mesmo formato, fonte e data",
+    "esperado": "Ordem A→Z, cartões iguais, linha de fonte",
+    "obtido": "ordem A→Z; 1 único estilo de cartão; \"Fonte: TSE — dados de candidaturas (amostra fictícia do protótipo) · atualizado em 10/11/2026\"",
+    "ok": true
+  },
+  {
+    "id": "E04",
+    "nome": "HU02 / CA02.1 — Buscar pelo número \"633\"",
+    "esperado": "Somente João Pedro Silva em até 2 s",
+    "obtido": "1 resultado (João Pedro Silva) em 279 ms (inclui 250 ms de espera da digitação)",
+    "ok": true
+  },
+  {
+    "id": "E05",
+    "nome": "HU02 / CA02.2 — Buscar \"Ferreira\" sem resultado",
+    "esperado": "\"Nenhum candidato encontrado\" + botão Nova busca",
+    "obtido": "mensagem exibida; \"Nova busca\" limpou o campo e voltou a listar 4 candidatos",
+    "ok": true
+  },
+  {
+    "id": "E06",
+    "nome": "HU03 / CA03.1 — Abrir perfil (aba Propostas)",
+    "esperado": "Nome, número, partido com link, cargo e propostas com fonte",
+    "obtido": "perfil com link #/partido/PG?uf=RS, 3 propostas e \"Fonte: Plano de governo registrado no TSE · atualizado em 10/11/2026\"",
+    "ok": true
+  },
+  {
+    "id": "E07",
+    "nome": "HU03 / CA03.2 — Aba Histórico com links oficiais",
+    "esperado": "Cargos e projetos, cada um com link oficial e data",
+    "obtido": "4 itens com links para Câmara/TSE; aba marcada (aria-selected=true)",
+    "ok": true
+  },
+  {
+    "id": "E08",
+    "nome": "RF06 — Página do partido a partir do perfil",
+    "esperado": "Nome, sigla, número, diretrizes e candidatos",
+    "obtido": "página do Partido Gama com diretrizes e 5 grupos de cargo (Presidente, Governador, Senador, Deputado Federal, Deputado Estadual)",
+    "ok": true
+  },
+  {
+    "id": "E09",
+    "nome": "CA03.2 — Candidato sem histórico",
+    "esperado": "Mensagem \"Sem cargos ou projetos anteriores registrados\"",
+    "obtido": "\"Sem cargos ou projetos anteriores registrados.\"",
+    "ok": true
+  },
+  {
+    "id": "E10",
+    "nome": "Diagrama de atividades — [UF já definida]",
+    "esperado": "Ao voltar ao início, RS já vem selecionado",
+    "obtido": "UF \"RS\" mantida no navegador após recarregar a página",
+    "ok": true
+  },
+  {
+    "id": "E11",
+    "nome": "RNF02 — Responsividade (320 px e 1280 px)",
+    "esperado": "Sem rolagem horizontal; 2 colunas no computador",
+    "obtido": "sem rolagem horizontal em 320 px; 2 colunas em 1280 px",
+    "ok": true
+  },
+  {
+    "id": "E12",
+    "nome": "RNF02 — Acessibilidade básica",
+    "esperado": "lang, nomes acessíveis em campos/fotos, sem erros de JS",
+    "obtido": "lang=\"pt-BR\"; todas as fotos e campos com nome acessível; 0 erros de JavaScript",
+    "ok": true
+  }
+]

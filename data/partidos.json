@@ -1,0 +1,77 @@
+[
+  {
+    "sigla": "PA",
+    "nome": "Partido Alfa",
+    "numero": 40,
+    "diretrizes": [
+      "Ampliação do acesso à educação pública em todos os níveis.",
+      "Descentralização de recursos para os municípios.",
+      "Participação popular na elaboração de orçamentos."
+    ],
+    "fonte": {
+      "nome": "Estatuto e programa partidário registrados no TSE",
+      "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse"
+    },
+    "atualizadoEm": "2026-11-10"
+  },
+  {
+    "sigla": "PB",
+    "nome": "Partido Beta",
+    "numero": 52,
+    "diretrizes": [
+      "Estímulo ao empreendedorismo e às pequenas empresas.",
+      "Redução da burocracia em serviços públicos.",
+      "Responsabilidade no uso dos recursos públicos."
+    ],
+    "fonte": {
+      "nome": "Estatuto e programa partidário registrados no TSE",
+      "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse"
+    },
+    "atualizadoEm": "2026-11-10"
+  },
+  {
+    "sigla": "PG",
+    "nome": "Partido Gama",
+    "numero": 63,
+    "diretrizes": [
+      "Investimento em ciência, tecnologia e inovação.",
+      "Fortalecimento do sistema público de saúde.",
+      "Transparência e dados abertos na administração."
+    ],
+    "fonte": {
+      "nome": "Estatuto e programa partidário registrados no TSE",
+      "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse"
+    },
+    "atualizadoEm": "2026-11-10"
+  },
+  {
+    "sigla": "PD",
+    "nome": "Partido Delta",
+    "numero": 74,
+    "diretrizes": [
+      "Desenvolvimento regional e apoio ao interior.",
+      "Preservação ambiental aliada à produção.",
+      "Valorização da cultura e do esporte locais."
+    ],
+    "fonte": {
+      "nome": "Estatuto e programa partidário registrados no TSE",
+      "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse"
+    },
+    "atualizadoEm": "2026-11-10"
+  },
+  {
+    "sigla": "PE",
+    "nome": "Partido Épsilon",
+    "numero": 85,
+    "diretrizes": [
+      "Segurança pública com integração entre os entes federativos.",
+      "Infraestrutura de transporte e logística.",
+      "Qualificação profissional para jovens."
+    ],
+    "fonte": {
+      "nome": "Estatuto e programa partidário registrados no TSE",
+      "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse"
+    },
+    "atualizadoEm": "2026-11-10"
+  }
+]

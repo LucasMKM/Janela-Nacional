@@ -1,0 +1,19 @@
+{
+  "name": "janela-nacional",
+  "version": "0.4.0",
+  "description": "Janela Nacional — consulta neutra de candidatos (Projeto Integrador IFRS)",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "importar": "node scripts/importar-tse.js",
+    "test": "node --test --test-reporter=spec \"tests/unit/*.test.js\" \"tests/integration/*.test.js\"",
+    "test:e2e": "node tests/e2e/fluxo-principal.e2e.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.22.3"
+  },
+  "devDependencies": {
+    "playwright": "^1.65.1"
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "metadados": {
+    "fonte": "TSE — dados de candidaturas (amostra fictícia do protótipo)",
+    "atualizadoEm": "2026-11-10",
+    "arquivoOrigem": "consulta_cand_2026_amostra.csv",
+    "totalCandidatos": 32
+  },
+  "candidatos": [
+    {
+      "id": "260000000001",
+      "nome": "Álvaro Teixeira",
+      "nomeCompleto": "Álvaro Teixeira Nunes",
+      "numero": "85",
+      "siglaPartido": "PE",
+      "nomePartido": "Partido Épsilon",
+      "cargo": "presidente",
+      "uf": "BR"
+    },
+    {
+      "id": "260000000002",
+      "nome": "Helena Duarte",
+      "nomeCompleto": "Helena Duarte Campos",
+      "numero": "40",
+      "siglaPartido": "PA",
+      "nomePartido": "Partido Alfa",
+      "cargo": "presidente",
+      "uf": "BR"
+    },
+    {
+      "id": "260000000003",
+      "nome": "Lúcia Ferraz",
+      "nomeCompleto": "Lúcia Ferraz de Oliveira",
+      "numero": "74",
+      "siglaPartido": "PD",
+      "nomePartido": "Partido Delta",
+      "cargo": "presidente",
+      "uf": "BR"
+    },
+    {
+      "id": "260000000004",
+      "nome": "Roberto Almeida",
+      "nomeCompleto": "Roberto Almeida Santos",
+      "numero": "52",
+      "siglaPartido": "PB",
+      "nomePartido": "Partido Beta",
+      "cargo": "presidente",
+      "uf": "BR"
+    },
+    {
+      "id": "260000000005",
+      "nome": "Sérgio Nogueira",
+      "nomeCompleto": "Sérgio Nogueira Bastos",
+      "numero": "63",
+      "siglaPartido": "PG",
+      "nomePartido": "Partido Gama",
+      "cargo": "presidente",
+      "uf": "BR"
+    },
+    {
+      "id": "260000000006",
+      "nome": "Fernanda Lopes",
+      "nomeCompleto": "Fernanda Lopes Machado",
+      "numero": "40",
+      "siglaPartido": "PA",
+      "nomePartido": "Partido Alfa",
+      "cargo": "governador",
+      "uf": "RS"
+    },
+    {
+      "id": "260000000007",
+      "nome": "Marcos Vieira",
+      "nomeCompleto": "Marcos Vieira da Rosa",
+      "numero": "52",
+      "siglaPartido": "PB",
+      "nomePartido": "Partido Beta",
+      "cargo": "governador",
+      "uf": "RS"
+    },
+    {
+      "id": "260000000008",
+      "nome": "Otávio Rangel",
+      "nomeCompleto": "Otávio Rangel Pinto",
+      "numero": "63",
+      "siglaPartido": "PG",
+      "nomePartido": "Partido Gama",
+      "cargo": "governador",
+      "uf": "RS"
+    },
+    {
+      "id": "260000000009",
+      "nome": "Patrícia Moura",
+      "nomeCompleto": "Patrícia Moura Gomes",
+      "numero": "74",
+      "siglaPartido": "PD",
+      "nomePartido": "Partido Delta",
+      "cargo": "governador",
+      "uf": "RS"
+    },
+    {
+      "id": "260000000010",
+      "nome": "Ana Beatriz Souza",
+      "nomeCompleto": "Ana Beatriz Souza Leal",
+      "numero": "401",
+      "siglaPartido": "PA",
+      "nomePartido": "Partido Alfa",
+      "cargo": "senador",
+      "uf": "RS"
+    },
+    {
+      "id": "260000000011",
+      "nome": "Carlos Mendes",
+      "nomeCompleto": "Carlos Mendes da Cunha",
+      "numero": "522",
+      "siglaPartido": "PB",
+      "nomePartido": "Partido Beta",
+      "cargo": "senador",
+      "uf": "RS"
+    },
+    {
+      "id": "260000000012",
+      "nome": "João Pedro Silva",
+      "nomeCompleto": "João Pedro Silva",
+      "numero": "633",
+      "siglaPartido": "PG",
+      "nomePartido": "Partido Gama",
+      "cargo": "senador",
+      "uf": "RS"
+    },
+    {
+      "id": "260000000013",
+      "nome": "Marina Costa",
+      "nomeCompleto": "Marina Costa Reis",
+      "numero": "744",
+      "siglaPartido": "PD",
+      "nomePartido": "Partido Delta",
+      "cargo": "senador",
+      "uf": "RS"
+    },
+    {
+      "id": "260000000015",
+      "nome": "Bruno Carvalho",
+      "nomeCompleto": "Bruno Carvalho Lima",
+      "numero": "4011",
+      "siglaPartido": "PA",
+      "nomePartido": "Partido Alfa",
+      "cargo": "deputado-federal",
+      "uf": "RS"
+    },
+    {
+      "id": "260000000016",
+      "nome": "Daniela Rocha",
+      "nomeCompleto": "Daniela Rocha Peres",
+      "numero": "5222",
+      "siglaPartido": "PB",
+      "nomePartido": "Partido Beta",
+      "cargo": "deputado-federal",
+      "uf": "RS"
+    },
+    {
+      "id": "260000000017",
+      "nome": "Eduardo Lima",
+      "nomeCompleto": "Eduardo Lima Fonseca",
+      "numero": "6333",
+      "siglaPartido": "PG",
+      "nomePartido": "Partido Gama",
+      "cargo": "deputado-federal",
+      "uf": "RS"
+    },
+    {
+      "id": "260000000018",
+      "nome": "Gabriela Antunes",
+      "nomeCompleto": "Gabriela Antunes Souto",
+      "numero": "7444",
+      "siglaPartido": "PD",
+      "nomePartido": "Partido Delta",
+      "cargo": "deputado-federal",
+      "uf": "RS"
+    },
+    {
+      "id": "260000000019",
+      "nome": "Rafael Tavares Silva",
+      "nomeCompleto": "Rafael Tavares Silva",
+      "numero": "8555",
+      "siglaPartido": "PE",
+      "nomePartido": "Partido Épsilon",
+      "cargo": "deputado-federal",
+      "uf": "RS"
+    },
+    {
+      "id": "260000000020",
+      "nome": "Igor Batista",
+      "nomeCompleto": "Igor Batista Melo",
+      "numero": "40123",
+      "siglaPartido": "PA",
+      "nomePartido": "Partido Alfa",
+      "cargo": "deputado-estadual",
+      "uf": "RS"
+    },
+    {
+      "id": "260000000021",
+      "nome": "Juliana Prado",
+      "nomeCompleto": "Juliana Prado Vaz",
+      "numero": "52234",
+      "siglaPartido": "PB",
+      "nomePartido": "Partido Beta",
+      "cargo": "deputado-estadual",
+      "uf": "RS"
+    },
+    {
+      "id": "260000000022",
+      "nome": "Kátia Ramos",
+      "nomeCompleto": "Kátia Ramos Luz",
+      "numero": "63345",
+      "siglaPartido": "PG",
+      "nomePartido": "Partido Gama",
+      "cargo": "deputado-estadual",
+      "uf": "RS"
+    },
+    {
+      "id": "260000000023",
+      "nome": "Leonardo Pires",
+      "nomeCompleto": "Leonardo Pires Aguiar",
+      "numero": "74456",
+      "siglaPartido": "PD",
+      "nomePartido": "Partido Delta",
+      "cargo": "deputado-estadual",
+      "uf": "RS"
+    },
+    {
+      "id": "260000000024",
+      "nome": "Renata Ferreira",
+      "nomeCompleto": "Renata Ferreira Braga",
+      "numero": "40",
+      "siglaPartido": "PA",
+      "nomePartido": "Partido Alfa",
+      "cargo": "governador",
+      "uf": "SP"
+    },
+    {
+      "id": "260000000025",
+      "nome": "Tiago Monteiro",
+      "nomeCompleto": "Tiago Monteiro Sales",
+      "numero": "52",
+      "siglaPartido": "PB",
+      "nomePartido": "Partido Beta",
+      "cargo": "governador",
+      "uf": "SP"
+    },
+    {
+      "id": "260000000026",
+      "nome": "Vanessa Quintana",
+      "nomeCompleto": "Vanessa Quintana Rego",
+      "numero": "63",
+      "siglaPartido": "PG",
+      "nomePartido": "Partido Gama",
+      "cargo": "governador",
+      "uf": "SP"
+    },
+    {
+      "id": "260000000027",
+      "nome": "Wagner Brito",
+      "nomeCompleto": "Wagner Brito Falcão",
+      "numero": "401",
+      "siglaPartido": "PA",
+      "nomePartido": "Partido Alfa",
+      "cargo": "senador",
+      "uf": "SP"
+    },
+    {
+      "id": "260000000028",
+      "nome": "Yasmin Castro",
+      "nomeCompleto": "Yasmin Castro Neves",
+      "numero": "522",
+      "siglaPartido": "PB",
+      "nomePartido": "Partido Beta",
+      "cargo": "senador",
+      "uf": "SP"
+    },
+    {
+      "id": "260000000029",
+      "nome": "Paulo Henrique Silva",
+      "nomeCompleto": "Paulo Henrique Silva",
+      "numero": "633",
+      "siglaPartido": "PG",
+      "nomePartido": "Partido Gama",
+      "cargo": "senador",
+      "uf": "SP"
+    },
+    {
+      "id": "260000000030",
+      "nome": "Simone Araújo",
+      "nomeCompleto": "Simone Araújo Freitas",
+      "numero": "7411",
+      "siglaPartido": "PD",
+      "nomePartido": "Partido Delta",
+      "cargo": "deputado-federal",
+      "uf": "SP"
+    },
+    {
+      "id": "260000000031",
+      "nome": "Ubirajara Costa",
+      "nomeCompleto": "Ubirajara Costa Leme",
+      "numero": "8522",
+      "siglaPartido": "PE",
+      "nomePartido": "Partido Épsilon",
+      "cargo": "deputado-federal",
+      "uf": "SP"
+    },
+    {
+      "id": "260000000032",
+      "nome": "Mônica Seabra",
+      "nomeCompleto": "Mônica Seabra Torres",
+      "numero": "40567",
+      "siglaPartido": "PA",
+      "nomePartido": "Partido Alfa",
+      "cargo": "deputado-estadual",
+      "uf": "SP"
+    },
+    {
+      "id": "260000000033",
+      "nome": "Nelson Paiva",
+      "nomeCompleto": "Nelson Paiva Corrêa",
+      "numero": "63678",
+      "siglaPartido": "PG",
+      "nomePartido": "Partido Gama",
+      "cargo": "deputado-estadual",
+      "uf": "SP"
+    }
+  ]
+}
